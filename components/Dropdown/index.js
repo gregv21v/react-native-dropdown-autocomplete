@@ -572,7 +572,7 @@ Dropdown.propTypes = {
   disabledItemColor: PropTypes.string,
   baseColor: PropTypes.string,
 
-  itemTextStyle: Text.propTypes.style,
+  itemTextStyle: PropTypes.style,
   separatorStyle: (ViewPropTypes || View.propTypes).style,
   listFooterStyle: (ViewPropTypes || View.propTypes).style,
   listHeaderStyle: (ViewPropTypes || View.propTypes).style,
