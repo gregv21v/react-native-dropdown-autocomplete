@@ -16,7 +16,7 @@
     "prop-types": "^15.6.2",
     "query-string": "^6.2.0",
     "react-native-keyboard-aware-scroll-view": "^0.8.0",
-    "react-native-material-buttons": "^0.6.0",
+    "react-native-material-buttons": "git+https://github.com/gregv21v/react-native-material-buttons.git",
     "react-native-material-ripple": "^0.8.0"
   },
   "devDependencies": {
